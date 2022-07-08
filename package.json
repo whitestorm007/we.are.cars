@@ -1,0 +1,24 @@
+{
+  "name": "we.are.cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "is-url": "^1.2.4",
+    "mongodb": "^4.7.0",
+    "request-promise-native": "^1.0.9",
+    "tough-cookie": "^4.0.0",
+    "tough-cookie-filestore2": "^1.0.0",
+    "useragent-from-seed": "^1.0.1"
+  }
+}

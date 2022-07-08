@@ -1,0 +1,7 @@
+{
+  "name": "Node.js Sample",
+  "description": "worlsd.cute.pets",
+  "repository": "https://github.com/whitestorm007/sigmaBins",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
